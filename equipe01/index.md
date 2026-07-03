@@ -20,6 +20,10 @@ Principais Temas Abordados:
 * Otimização
 * Aprendizado de Máquina
 
-{{< youtube "ID_DO_VIDEO" >}}
+## Como o Google Maps Encontra o Caminho Mais Rápido?
+
+Neste vídeo, abrimos a caixa preta do aplicativo mais famoso do mundo para entender como o Google Maps decide qual é o melhor caminho para você.  Você vai descobrir que, para o Maps, a sua cidade não é aquele mapa bonitinho cheio de prédios, mas sim um emaranhado de pontos e linhas chamado Grafo. Vamos te explicar de forma simples como funciona o famoso Algoritmo de Dijkstra e o  A* e como eles calculam o custo de cada rua para te dar a melhor rota possível.  Se você achava que era mágica ou adivinhação, prepare-se para ver como a matemática resolve um dos maiores problemas do mundo real!
+
+{{< youtube "H7Ij4bTcc8A" >}}
 
 {{< audio "nome-do-arquivo.mp3" >}}
