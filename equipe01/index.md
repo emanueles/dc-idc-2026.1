@@ -1,5 +1,5 @@
 ---
-title: A Matemática Escondia nas Rotas do Maps e Aprendizagem de Máquina na Evasão Universitária                     # <- Altere o título
+title: A Matemática Escondida nas Rotas do Maps e Aprendizagem de Máquina na Evasão Universitária                     # <- Altere o título
 description: 'Nesta publicação, trazemos a ciência até você em dois formatos: vídeo e podcast! No vídeo, desvendamos a lógica e os algoritmos por trás das rotas que os aplicativos de GPS escolhem para você. No podcast, apresentamos uma pesquisa inovadora desenvolvida aqui na Universidade Federal do Ceará (UFC), que explora como o aprendizado de máquina pode ser um aliado no combate à evasão de alunos no curso de Ciência da Computação.'  # <- Altere a descrição
 slug: equipe01-maps-ml            # <- Altere temaprincipal, mantenha o prefixo equipe01-
 date: 2026-07-03 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
