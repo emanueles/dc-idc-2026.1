@@ -11,8 +11,7 @@ tags:
     - Internet das Coisas (IoT)                  
     - Machine learning
     - Saúde pública
-weight: 1 
-draft: true
+weight: 1
 ---
 
 ## Equipe
