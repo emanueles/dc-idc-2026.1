@@ -3,7 +3,7 @@ title: "I.A. na vida real: da pesquisa até o dia a dia"
 description: "🎧 Podcast: Entrevista com o Prof. Victor Hugo sobre o uso inovador da IA no diagnóstico da doença de Parkinson. 🎥Vídeo: Como a geração de malhas adaptativas em GPUs traz muito mais realismo a objetos 3D na Computação Gráfica." # <- Altere a descrição
 slug: equipe11-IA-e-computação-gráfica            # <- Altere temaprincipal, mantenha o prefixo equipe01-
 date: 2026-07-08 17:28:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: thumb.png                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+image: podcastcover.jpeg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
 categories:
     - Post                                # <- Deixe como está
 tags:
@@ -24,7 +24,7 @@ no repositório do site (emanueles/dc-idc).
 # A inteligência artificial no diagnóstico de Parkinson
 O tema do nosso primeiro podcast a é a aplicação de inteligência artificial na medicina e foi inspirado no artigo  **"Multimodal diagnosis of Parkinson's disease with an internet-based collaborative agent architecture of medical language models"** , tendo ***Eugenio Peixoto Junior*** como autor principal. 
 
-Neste podcast, faremos uma introdução sobre como a inteligência artificial pode atuar no diagnóstico da doença de Parkinson, fato que pode garantir o acompanhamento precoce e evitar a progressão silenciosa da doença para milhares de pessoas. Conversamos com o professor Victor Hugo sobre o uso de dados multimodais, como curtas gravações de voz e sinais de canetas inteligentes, integrados em um sistema em nuvem. Com uma conversa leve e descontraída, esperamos que desfrutem do nosso trabalho. Aproveitem o áudio!
+Neste podcast, faremos uma introdução sobre como a inteligência artificial pode atuar no diagnóstico da doença de Parkinson, fato que pode garantir o acompanhamento precoce e evitar a progressão silenciosa da doença para milhares de pessoas. Conversamos com o professor [Victor Hugo](https://br.linkedin.com/in/victor-hugo-c-de-albuquerque-a45baa20b) sobre o uso de dados multimodais, como curtas gravações de voz e sinais de canetas inteligentes, integrados em um sistema em nuvem. Com uma conversa leve e descontraída, esperamos que desfrutem do nosso trabalho. Aproveitem o áudio!
 
 {{< youtube "LDy6yMWUziI" >}}
 
