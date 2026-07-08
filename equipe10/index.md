@@ -9,7 +9,7 @@ categories:
 tags:
     - Biologia Molecular
 weight: 1
-draft: true
+draft: false
 ---
 
 **Autores**: Gabriel Victor Vidal da Silva (gabrielvidalpb@alu.ufc.br), Maria Karoline da Silva Freitas (karolfr@alu.ufc.br) e [Matheus Finger Ramos de Oliveira](https://www.instagram.com/math.eus.finger).
