@@ -2,8 +2,8 @@
 title: Título do Post                     # <- Altere o título
 description: Breve descrição da postagem  # <- Altere a descrição
 slug: equipe02-temaprincipal            # <- Altere temaprincipal, mantenha o prefixo equipe02-
-date: 2026-01-01 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: cover.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+date: 2026-08-07 00:27:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
+image: Capa podcast.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
 categories:
     - Post                                # <- Deixe como está
 tags:
@@ -20,6 +20,6 @@ Escreva aqui o texto da sua postagem. Veja o passo a passo completo em guia-pull
 no repositório do site (emanueles/dc-idc).
 -->
 
-{{< youtube "ID_DO_VIDEO" >}}
+{{< youtube "YZNaseghFJY" >}}
 
-{{< audio "nome-do-arquivo.mp3" >}}
+{{< audio "Podcast.Final.mp3" >}}
