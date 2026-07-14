@@ -2,7 +2,7 @@
 title: "I.A. na vida real: da pesquisa até o dia a dia"
 description: "🎧 Podcast: Entrevista com o Prof. Victor Hugo sobre o uso inovador da IA no diagnóstico da doença de Parkinson. 🎥Vídeo: Como a geração de malhas adaptativas em GPUs traz muito mais realismo a objetos 3D na Computação Gráfica." # <- Altere a descrição
 slug: equipe11-IA-e-computação-gráfica            # <- Altere temaprincipal, mantenha o prefixo equipe01-
-date: 2026-07-08 17:28:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
+date: 2026-07-08 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
 image: podcastcover.jpeg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
 categories:
     - Post                                # <- Deixe como está
