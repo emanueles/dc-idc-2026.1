@@ -1,6 +1,6 @@
 ---
-title: O ar e a vista: a arquitetura de uma cidade desigual                     
-description: Duas pesquisas da UFC investigaram a mesma cidade de dois ângulos: o ar que entra nos seus pulmões e as árvores que chegam (ou não) até a sua janela. As duas chegam à mesma conclusão incômoda — o jeito como Fortaleza é construída distribui ar limpo e natureza de forma desigual.  
+title: "O ar e a vista: a arquitetura de uma cidade desigual"                     
+description: "Duas pesquisas da UFC investigaram a mesma cidade de dois ângulos: o ar que entra nos seus pulmões e as árvores que chegam (ou não) até a sua janela. As duas chegam à mesma conclusão incômoda — o jeito como Fortaleza é construída distribui ar limpo e natureza de forma desigual."  
 slug: equipe05-superpredios           
 date: 2026-07-06 11:17:00+0000           
 image: thumb3.jpg                         
